@@ -27,7 +27,9 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.orchestral.init.OrchestralModItems;
+import net.mcreator.orchestral.init.OrchestralModFeatures;
 import net.mcreator.orchestral.init.OrchestralModEntities;
+import net.mcreator.orchestral.init.OrchestralModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -45,9 +47,11 @@ public class OrchestralMod {
 	public OrchestralMod() {
 
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
+		OrchestralModBlocks.REGISTRY.register(bus);
 		OrchestralModItems.REGISTRY.register(bus);
 		OrchestralModEntities.REGISTRY.register(bus);
+
+		OrchestralModFeatures.REGISTRY.register(bus);
 
 	}
 

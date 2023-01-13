@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "orchestral:evilite_ingot"
+    },
+    "2": {
+      "item": "orchestral:evilite_ingot"
+    },
+    "3": {
+      "item": "orchestral:evilite_ingot"
+    },
+    "5": {
+      "item": "orchestral:evilite_ingot"
+    }
+  },
+  "result": {
+    "item": "orchestral:evilite_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "orchestral:blocks/evilite_ore_block",
+    "up": "orchestral:blocks/evilite_ore_block",
+    "north": "orchestral:blocks/eviliteore_block_side",
+    "east": "orchestral:blocks/eviliteore_block_side",
+    "south": "orchestral:blocks/eviliteore_block_side",
+    "west": "orchestral:blocks/eviliteore_block_side",
+    "particle": "orchestral:blocks/evilite_ore_block"
+  }
+}

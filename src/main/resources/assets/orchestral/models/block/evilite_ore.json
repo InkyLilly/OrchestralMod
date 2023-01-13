@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "orchestral:blocks/evilite_ore",
+    "particle": "orchestral:blocks/evilite_ore"
+  }
+}

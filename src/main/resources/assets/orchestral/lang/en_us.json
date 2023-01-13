@@ -1,3 +1,15 @@
 {
-  "item.orchestral.penis": "Penis"
+  "item.orchestral.evilite_shovel": "Evilite Shovel",
+  "item.orchestral.evilite_sword": "Evilite Sword",
+  "item.orchestral.evilite_axe": "Evilite Axe",
+  "item.orchestral.evilite_pickaxe": "Evilite Pickaxe",
+  "item.orchestral.evilite_armor_chestplate": "Evilite Chestplate",
+  "item.orchestral.penis": "Penis",
+  "item.orchestral.evilite_armor_leggings": "Evilite Leggings",
+  "item.orchestral.evilite_armor_boots": "Evilite Boots",
+  "item.orchestral.evilite_ingot": "Evilite",
+  "block.orchestral.evilite_block": "Block of Evilite",
+  "block.orchestral.evilite_ore": "Evilite Ore",
+  "item.orchestral.evilite_hoe": "Evilite Hoe",
+  "item.orchestral.evilite_armor_helmet": "Evilite Helmet"
 }

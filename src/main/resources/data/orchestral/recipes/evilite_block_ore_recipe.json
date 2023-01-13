@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orchestral:evilite_block"
+    }
+  ],
+  "result": {
+    "item": "orchestral:evilite_ingot",
+    "count": 9
+  }
+}

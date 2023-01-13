@@ -23,13 +23,199 @@
           }
         ]
       }
+    },
+    {
+      "name": "EviliteIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_ingot"
+    },
+    {
+      "name": "EviliteOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_ore"
+    },
+    {
+      "name": "EviliteBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_block"
+    },
+    {
+      "name": "EviliteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_ore_block_recipe"
+    },
+    {
+      "name": "EviliteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_block_ore_recipe"
+    },
+    {
+      "name": "EviliteOreSmelting",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_ore_smelting"
+    },
+    {
+      "name": "EvilitePickaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_pickaxe"
+    },
+    {
+      "name": "EviliteAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_axe"
+    },
+    {
+      "name": "EviliteSword",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_sword"
+    },
+    {
+      "name": "EviliteShovel",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_shovel"
+    },
+    {
+      "name": "EviliteHoe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_hoe"
+    },
+    {
+      "name": "EvilitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_pickaxe_recipe"
+    },
+    {
+      "name": "EviliteAxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_axe_recipe"
+    },
+    {
+      "name": "EviliteSwordRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_sword_recipe"
+    },
+    {
+      "name": "EviliteShovelRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_shovel_recipe"
+    },
+    {
+      "name": "EviliteHoeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_hoe_recipe"
+    },
+    {
+      "name": "EviliteArmor",
+      "type": "armor",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EviliteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_armor_helmet_recipe"
+    },
+    {
+      "name": "EviliteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_armor_body_recipe"
+    },
+    {
+      "name": "EviliteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_armor_leggings_recipe"
+    },
+    {
+      "name": "EviliteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evilite_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.orchestral.penis": "Penis"
+      "item.orchestral.evilite_shovel": "Evilite Shovel",
+      "item.orchestral.evilite_sword": "Evilite Sword",
+      "item.orchestral.evilite_axe": "Evilite Axe",
+      "item.orchestral.evilite_pickaxe": "Evilite Pickaxe",
+      "item.orchestral.evilite_armor_chestplate": "Evilite Chestplate",
+      "item.orchestral.penis": "Penis",
+      "item.orchestral.evilite_armor_leggings": "Evilite Leggings",
+      "item.orchestral.evilite_armor_boots": "Evilite Boots",
+      "item.orchestral.evilite_ingot": "Evilite",
+      "block.orchestral.evilite_block": "Block of Evilite",
+      "block.orchestral.evilite_ore": "Evilite Ore",
+      "item.orchestral.evilite_hoe": "Evilite Hoe",
+      "item.orchestral.evilite_armor_helmet": "Evilite Helmet"
     }
   },
   "foldersRoot": {
